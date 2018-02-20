@@ -2,34 +2,44 @@
     "Collections":[
         {
             "name":"Apple",
-            "preview_url":"RAW Link",
-            "preview_thumbnail_url":"RAW Link"
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/iphone.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/iphone.png"
         },
         {
             "name":"Samsung",
-            "preview_url":"RAW Link",
-            "preview_thumbnail_url":"RAW Link"
-        }
-       {
-            "name":"LG",
-            "preview_url":"RAW Link",
-            "preview_thumbnail_url":"RAW Link"
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/samsung.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/samsung.png"
         },
-        {
+	{
             "name":"HTC",
-            "preview_url":"RAW Link",
-            "preview_thumbnail_url":"RAW Link"
-        } 
-      {
-            "name":"Sony",
-            "preview_url":"RAW Link",
-            "preview_thumbnail_url":"RAW Link"
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/htc.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/htc.png"
         },
-        {
+	{
             "name":"Huawei",
-            "preview_url":"RAW Link",
-            "preview_thumbnail_url":"RAW Link"
-        }
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/huawei.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/huawei.png"
+        },
+	{
+            "name":"Sony",
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/sony.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/sony.png"
+        },
+	{
+            "name":"LG",
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/lg.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/lg.png"
+        },
+	{
+            "name":"Google",
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/pixel.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/pixel.png"
+        },
+	{
+            "name":"Xiaomi",
+            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/xiaomi.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Vuma/master/xiaomi.png"
+        },
     ],
     
 	
